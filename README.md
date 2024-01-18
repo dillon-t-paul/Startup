@@ -4,7 +4,7 @@ This Web Program will serve as an opportunity for students to identify other stu
 ### Elevator Pitch
 Many students struggle with the various assignments and as an educator, it can be difficult to ensure that every student gets the opportunity to meet with an instructor or TA to receive the help that they need. Collaborating with other students is a commonly overlooked resource that can be a powerful tool in college and the workforce. My site connects students to their peers at similar points of any assignment, encouraging engagement between students and allowing them to take the role of teacher as they work to complete a given assignment. Additionally, it allows TAs to monitor students' progress and offer help where it's most needed. Guided learning has never been easier than it is now.
 ### Design
-![Help Lab User Interface](https://github.com/dillon-t-paul/Startup/assets/156498150/642cfba1-041c-485b-b786-448518accc44)
+![Help Lab User Interface - Updated](https://github.com/dillon-t-paul/Startup/assets/156498150/b1140182-4fff-46ce-a979-b67551590c86)
 ### Key Features
 - Secure login over HTTPS
 - Ability to join other students at similar stages in a given assignment
