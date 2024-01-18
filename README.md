@@ -6,7 +6,12 @@ Many students struggle with the various assignments and as an educator, it can b
 ### Design
 ![Help Lab User Interface](https://github.com/dillon-t-paul/Startup/assets/156498150/642cfba1-041c-485b-b786-448518accc44)
 ### Key Features
-- 
+- Secure login over HTTPS
+- Ability to join other students at similar stages in a given assignment
+- Observe where other students are at on any given assignment
+- Interact and work with classmates on current assignments
+- Read TA tips for current problems
+- Request one-on-one help from a TA
 ### Technologies
 - **HTML** - Web structure created using HTML. Three HTML pages: One to create an account, one to log in, and one for the Online TA Lab
 - **CSS** - Application is styled to match window size, has a complimenting color scheme, and centers focus on group chat and TA tips
