@@ -1,5 +1,5 @@
 # **Virtual Help Lab**
-This Web Program will serve as an opportunity for students to identify other students who are at similar parts of an assignment, allowing them to interact with one another and work through the assignment together. This will also allow TAs to identify where students are struggling and adjust their efforts accordingly.
+This Web Program will serve as an opportunity for students to identify other students who are at similar parts of an assignment, allowing them to interact with one another and work through the assignment together. This will also allow TAs to identify where students are struggling and adjust their efforts accordingly.  
 [Future Labs Website](https://futurelabs.click)
 ## Specification Deliverable
 ### Elevator Pitch
@@ -22,3 +22,5 @@ Many students struggle with the various assignments and as an educator, it can b
 - **Web Services** - Application uses chatWithPeers function to interact with other students
 - **Web Framework** - Using React to add components and request routing
 - **WebSocket Data** - When a user joins a section, the student count is updated for all users. Messages are broadcast to all users in the current section.
+## Findings and Information Learned
+- When editing the Caddy file, you  must type i to activate insert mode. This allows you to edit the information present on the page. Esc will exit insert mode and then you can save with :wq or just quit with :q.
